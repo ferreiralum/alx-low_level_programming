@@ -3,7 +3,8 @@
 /**
  * main - Entry point of the program
  *
- * Description: Prints all possible combinations of single-digit numbers in ascending order,
+ * Description: Prints all possible combinations of single-digit numbers
+ * in ascending order,
  * separated by commas and spaces, using the putchar function only four times.
  *
  * Return: Always 0 (Success)
