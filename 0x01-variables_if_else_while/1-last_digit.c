@@ -4,7 +4,7 @@
 
 /**
  * main - prints the last digit of the random
- * number stored in the variable n and code determines 
+ * number stored in the variable n and code determines
  *if n is greater or less than 6 or is 0
  * Return:0 Always Successful
  */
