@@ -3,7 +3,8 @@
 /**
  * main - Entry point of the program
  *
- * Description: Prints all possible different combinations of two digits, separated by commas and spaces,
+ * Description: Prints all possible different combinations of two
+ * digits, separated by commas and spaces,
  * in ascending order, using the putchar function only five times.
  *
  * Return: Always 0 (Success)
