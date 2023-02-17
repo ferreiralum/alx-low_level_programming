@@ -5,7 +5,8 @@
  * Return: Always 0 (Success)
  */
 
-int main(void) {
+int main(void)
+{
 int i, j, k;
 for (i = 0; i <= 7; i++)
 {
@@ -25,6 +26,6 @@ putchar(' ');
 }
 }
 putchar('\n');
-return 0;
+return (0);
 }
 
