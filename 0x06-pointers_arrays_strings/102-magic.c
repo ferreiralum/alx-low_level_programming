@@ -9,8 +9,8 @@ int *p;
 a[2] = 1024;
 p = &n;
 
-*(p + 5) = 98;
-/* ...so that this prints 98\n */
+*p = 98; // added line
+
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
