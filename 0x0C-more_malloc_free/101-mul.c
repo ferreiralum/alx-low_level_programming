@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * _print - moves a string one place to the left and prints the string
+ * _print - moves a string one place to the left
+ * and prints the string
  * @str: string to move
  * @l: size of string
  * Author: Ferreira Lumbimi
@@ -26,7 +27,8 @@ free(str);
 }
 
 /**
- * mul - multiplies a char with a string and places the answer into dest
+ * mul - multiplies a char with a string and places the
+ * answer into dest
  * @n: char to multiply
  * @num: string to multiply
  * @num_index: last non NULL index of num
